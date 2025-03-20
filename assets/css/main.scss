@@ -29,8 +29,7 @@ html {
 .multi-bg {
   width: 100%;
   height: 400px;
-  background-image:
-    url(assets/images/b.jpg), url(assets/images/g.png),
+  background-image: url(assets/images/g.png),
     linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0));
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position:
