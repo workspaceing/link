@@ -9,7 +9,11 @@
 @tailwind components;
 @tailwind utilities;
 
-
+/* 选择文档的根元素（HTML 中的 <html>） */
+:root {
+  background-color: #e8f6f3;
+  padding: 30px;
+}
 body,
 html {
     a{
@@ -27,11 +31,7 @@ html {
         }
     }
    
-/* 选择文档的根元素（HTML 中的 <html>） */
-:root {
-  background-color: #e8f6f3;
-  padding: 30px;
-}
+
 /*无背景图片*/
 /*body{min-height:100%;max-width:100%; width: 600px;background: translate;margin: auto;text-align: center;}*/
 /*背景图片*/
