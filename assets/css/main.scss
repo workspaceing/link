@@ -9,11 +9,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 选择文档的根元素（HTML 中的 <html>） */
-:root {
-  background-color: #e8f6f3;
-  padding: 30px;
-}
 body,
 html {
     a{
@@ -30,14 +25,22 @@ html {
             background-color: black;
         }
     }
-   
+   /*无背景图片*/
+/* 选择文档的根元素（HTML 中的 <html>） */
+.index-body {
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
 
-/*无背景图片*/
-/*body{min-height:100%;max-width:100%; width: 600px;background: translate;margin: auto;text-align: center;}*/
-/*背景图片*/
-/*body{min-height:100%;background-color: #37435e;background: #37435e url("https://cdn.jsdelivr.net/gh/zibaicai/cdn/meinv.jpg") no-repeat fixed center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size:cover;max-width:100%; width: 600px;margin: auto;text-align: center;}*/
-/*背景颜色*/
-/* .body{min-height:100%;max-width:100%; width: 600px;background-color:#e8f6f3;translate;margin: auto;text-align: center;} */ //淡蓝色背景
+    height: 100%;
+    width: 100%;
+    background: #e8f6f3;
+    background-image: url('https://yxw.me/html/iamitin/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+}
+
 
     .links {
         transition: all ease 0.25s;
