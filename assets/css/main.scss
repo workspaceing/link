@@ -25,22 +25,6 @@ html {
             background-color: black;
         }
     }
-   /*无背景图片*/
-/* 选择文档的根元素（HTML 中的 <html>） */
-.index-body {
-    -webkit-transform-style: preserve-3d;
-    -moz-transform-style: preserve-3d;
-    transform-style: preserve-3d;
-
-    height: 100%;
-    width: 100%;
-    background: #e8f6f3;
-    background-image: url('https://yxw.me/html/iamitin/img/bg.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100% auto;
-}
-
 
     .links {
         transition: all ease 0.25s;
