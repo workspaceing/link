@@ -27,14 +27,14 @@ links:
     URL: https://www.instagram.com
     Username: harsh98trivedi
     Color: '#DD2A7B'
-    Icon-Class: fab fa-facebook
+    Icon-Class: fab fa-book
 
     # TWITTER
   - Name: Twitter
     URL: https://x.com
     Username: harsh98trivedi
     Color: '#1DA1F2'
-    Icon-Class: fab fa-facebook
+    Icon-Class: fab fa-bookmark
 
      # THREADS.NET
   - Name: Threads
@@ -49,14 +49,14 @@ links:
     URL: https://m.me
     Username: theharshtrivedi
     Color: '#006AFF'
-    Icon-Class: fab fa-facebook
+    Icon-Class: fab fa-weixin
 
     # CLUBHOUSE
   - Name: Clubhouse
     URL: https://www.clubhouse.com
     Username: '@harsh98trivedi'
     Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper
+    Icon-Class: fas fa-user-md
     
     # LINKEDIN
   - Name: LinkedIn
@@ -89,14 +89,14 @@ links:
   - Name: WordPress.org
     URL: 'https://profiles.wordpress.org'
     Username: harsh98trivedi
-    Icon-Class: fab fa-facebook
+    Icon-Class: fab fa-user
     Color: '#0073AA'
     Text_Color: '#ffffff'
 
     # EMAIL
   - Name: Email
     URL: 'mailto:hi@harshtrivedi.in'
-    Icon-Class: fas fa-envelope
+    Icon-Class: fas fa-soundcloud
     Color: '#e17055'
     Text_Color: '#ffffff'
 
@@ -119,7 +119,7 @@ links:
   - Name: Twitch
     URL: 'https://twitch.tv'
     Username: harsh98trivedi
-    Icon-Class: fab fa-twitch
+    Icon-Class: fab fa-qq
     Color: '#9147fe'
     Text_Color: '#ffffff'
 
@@ -127,7 +127,7 @@ links:
   - Name: Vimeo
     URL: 'https://vimeo.com'
     Username: harshtrivedi
-    Icon-Class: fab fa-vimeo-v
+    Icon-Class: fab fa-qq
     Color: '#1ab7ea'
     Text_Color: '#ffffff'
 
@@ -166,7 +166,7 @@ links:
     URL: http://telegram.me
     Username: theharshtrivedi
     Color: '#0088cc'
-    Icon-Class: fab fa-telegram-plane
+    Icon-Class: fab fa-internet-explorer
 
     # SNAPCHAT
   - Name: Snapchat
@@ -174,7 +174,7 @@ links:
     Username: 'harsh98trivedi'
     Color: '#FFFC00'
     Text_Color: '#000000'
-    Icon-Class: fab fa-snapchat-ghost
+    Icon-Class: fab fa-internet-explorer
 
     # STEAM
   - Name: Steam
@@ -188,7 +188,7 @@ links:
   # - Name: Discord
   #   URL: 'https://discord.gg'
   #   Username: 
-  #   Icon-Class: fab fa-discord
+  #   Icon-Class: fab fa-internet-explorer
   #   Color: '#5865F2'
   #   Text_Color: '#ffffff'
 
@@ -197,27 +197,27 @@ links:
     URL: https://pinterest.com
     Username: 'harsh98trivedi'
     Color: '#E60023'
-    Icon-Class: fab fa-pinterest
+    Icon-Class: fab fa-internet-explorer
 
     # BEHANCE
   - Name: Behance
     URL: https://www.behance.net
     Username: harsh98trivedi
     Color: '#1769ff'
-    Icon-Class: fab fa-behance
+    Icon-Class: fab fa-internet-explorer
 
   #   # DRIBBBLE
   # - Name: Dribbble
   #   URL: https://dribbble.com
   #   Username: 
   #   Color: '#ea4c89'
-  #   Icon-Class: fab fa-dribbble
+  #   Icon-Class: fab fa-chrome
 
     # DEVIANTART
   - Name: DeviantArt
     URL: https://www.deviantart.com
     Username: harshtrivedi
-    Icon-Class: fab fa-deviantart
+    Icon-Class: fab fa-chrome
     Color: '#05CC46'
     Text_Color: '#ffffff'
 
@@ -225,7 +225,7 @@ links:
   - Name: Figma
     URL: https://www.figma.com
     Username: '@harshtrivedi'
-    Icon-Class: fab fa-figma
+    Icon-Class: fab fa-chrome
     Color: '#ff2865'
     Text_Color: '#ffffff'
 
@@ -234,18 +234,18 @@ links:
     URL: http://open.spotify.com/user
     Username: 314ihryk3edvtusti6il3oy3x5da
     Color: '#1DB954'
-    Icon-Class: fab fa-spotify
+    Icon-Class: fab fa-chrome
 
     # SOUNDCLOUD
   - Name: SoundCloud
     URL: https://www.soundcloud.com
     Username: harsh98trivedi
     Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
+    Icon-Class: fab fa-chrome
 
   - Name: Skype
     URL: https://join.skype.com/invite/e6vMrfsYKn9e
-    Icon-Class: fa-brands fa-skype
+    Icon-Class: fab fa-chrome
     Color: '#00aff0'
     Text_Color: '#ffffff'
 
@@ -260,7 +260,7 @@ links:
   - Name: Medium
     URL: 'https://medium.com'
     Username: '@harsh98trivedi'
-    Icon-Class: fab fa-archive
+    Icon-Class: fab fa-chrome
     Color: '#00ab6c'
     Text_Color: '#ffffff'
 
