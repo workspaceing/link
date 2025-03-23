@@ -27,14 +27,14 @@ links:
     URL: https://www.instagram.com
     Username: harsh98trivedi
     Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
+    Icon-Class: fab fa-facebook
 
     # TWITTER
   - Name: Twitter
     URL: https://x.com
     Username: harsh98trivedi
     Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+    Icon-Class: fab fa-facebook
 
      # THREADS.NET
   - Name: Threads
@@ -49,14 +49,14 @@ links:
     URL: https://m.me
     Username: theharshtrivedi
     Color: '#006AFF'
-    Icon-Class: fab fa-facebook-messenger
+    Icon-Class: fab fa-facebook
 
     # CLUBHOUSE
   - Name: Clubhouse
     URL: https://www.clubhouse.com
     Username: '@harsh98trivedi'
     Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
+    Icon-Class: fas fa-hand-paper
     
     # LINKEDIN
   - Name: LinkedIn
@@ -89,7 +89,7 @@ links:
   - Name: WordPress.org
     URL: 'https://profiles.wordpress.org'
     Username: harsh98trivedi
-    Icon-Class: fa-brands fa-wordpress-simple
+    Icon-Class: fab fa-facebook
     Color: '#0073AA'
     Text_Color: '#ffffff'
 
@@ -103,7 +103,7 @@ links:
   - Name: Mastodon
     URL: 'https://fosstodon.org'
     Username: '@harshtrivedi'
-    Icon-Class: fa-brands fa-mastodon
+    Icon-Class: fab fa-facebook
     Color: '#5a39c9'
     Text_Color: '#ffffff'
 
