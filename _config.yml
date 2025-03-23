@@ -260,7 +260,7 @@ links:
   - Name: Medium
     URL: 'https://medium.com'
     Username: '@harsh98trivedi'
-    Icon-Class: fab fa-medium-m
+    Icon-Class: fab fa-archive
     Color: '#00ab6c'
     Text_Color: '#ffffff'
 
@@ -283,7 +283,7 @@ links:
   - Name: BuyMeACoffee
     URL: 'https://buymeacoffee.com'
     Username: harshtrivedi
-    Icon-Class: fas fa-mug-hot
+    Icon-Class: fas fa-address-book
     Color: '#FFDD00'
     Text_Color: '#000000'
 
